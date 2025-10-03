@@ -19,7 +19,7 @@
 5. If all 9 squares are filled without a winner, the game ends in a draw.
 
    ## Technologies Used
- ***-HTML5***
- ***-CSS3***
- ***-JavaScript (ES6+)***
+ - ***HTML5***
+ - ***CSS3***
+ - ***JavaScript (ES6+)***
 
