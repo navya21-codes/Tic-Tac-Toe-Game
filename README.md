@@ -12,9 +12,14 @@
 
 ## How to Play
 
-1. The game is played on a 3x3 grid
-2. Player 1 is *X* and Player 2 is *O*
-3. Players take turns placing their marks in empty squares
-4. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins!
-5. If all 9 squares are filled without a winner, the game ends in a draw
+1. The game is played on a 3x3 grid.
+2. Player 1 is *X* and Player 2 is *O*.
+3. Players take turns placing their marks in empty squares.
+4. The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins.
+5. If all 9 squares are filled without a winner, the game ends in a draw.
+
+   ## Technologies Used
+ ***HTML5***
+ ***CSS3***
+ ***JavaScript (ES6+)***
 
